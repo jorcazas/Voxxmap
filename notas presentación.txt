@@ -1,0 +1,3 @@
+Actualizar hospital desde otra parte de la app. No usar moph como clave primaria
+duda de sebas murillo
+google forms no funciona sin internet
